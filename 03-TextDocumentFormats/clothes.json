@@ -53,5 +53,30 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Apple",
+        "founded": 1976,
+        "headquarters": "Cupertino, California, USA",
+        "employees": 164000,
+        "products": [
+            "iPhone",
+            "MacBook",
+            "iPad",
+            "Apple Watch"
+        ]
+    },
+    {
+        "name": "Toyota",
+        "founded": 1937,
+        "headquarters": "Toyota City, Japan",
+        "employees": 375000,
+        "products": [
+            "Automobiles",
+            "Hybrid Vehicles",
+            "Engines",
+            "Robotics"
+        ]
     }
+    
 ]

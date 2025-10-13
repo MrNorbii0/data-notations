@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Xiaomi" model="11T Pro" releaseYear="2022">
+        <specs>
+            <screenSize unit="inch">6.60</screenSize>
+            <batteryCapacity unit="mAh">5500</batteryCapacity>
+            <storage unit="GB">512</storage>
+            <camera unit="MP">108</camera>
+        </specs>
+        <price currency="USD">500</price>
+    </smartphone>
 </smartphones>

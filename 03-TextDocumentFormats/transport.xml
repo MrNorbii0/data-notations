@@ -1,0 +1,8 @@
+<mainTransportMethods>
+    <transportMethod id="1" type="personal">
+    >Car</transportMethod>
+    <transportMethod id="2" type="public">
+    >Bus</transportMethod>
+    <transportMethod id="3" type="public">Train</transportMethod>
+    <transportMethod id="4" type="personal">Bike</transportMethod>
+</mainTransportMethods>

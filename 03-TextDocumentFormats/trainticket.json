@@ -1,0 +1,11 @@
+[
+    {
+        "departureTime": "19:01",
+        "arrivalTime": "21:46",
+        "from": "Nowy Sącz",
+        "to": "Kraków",
+        "price": 13.00,
+        "currency": "PLN",
+        "isStudentDiscount": True
+    }
+]
